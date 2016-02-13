@@ -1,0 +1,1374 @@
+ACUR90001_2015_JUL - Issues in Art Conservation
+ACUR90002_2015_SM1 - Art Museums and Curatorship
+ACUR90004_2015_SM1 - Minor Thesis - Art Curatorship
+ACUR90004_2015_SM2 - Minor Thesis - Art Curatorship
+ACUR90005_2015_SM2 - Interpreting Exhibitions
+ACUR90006_2015_SM1 - Exhibition Management
+ACUR90006_2015_SM2 - Exhibition Management
+ACUR90007_2015_SM1 - Collection Management
+ACUR90007_2015_SM2 - Collection Management
+ACUR90008_2015_SM1 - Curating Contemporary Art
+AHIS10001_2015_SM1 - Art History: Theory and Controversy
+AHIS10002_2015_SM2 - Modern Art: The Politics of the New
+AHIS20002_2015_SM1 - Australian Art
+AHIS20011_2015_SM2 - Renaissance Art in Florence and Venice
+AHIS20016_2015_SM1 - Art and Revolution
+AHIS20018_2015_SM2 - Art, Market and Methods
+AHIS20019_2015_SM1 - Art in Medieval Europe
+AHIS20020_2015_SM2 - Avant-Garde and Postmodern Art
+AHIS30003_2015_SM1 - Baroque Art in Polycentric Europe
+AHIS30005_2015_SM1 - Contemporary Aboriginal Art
+AHIS30019_2015_SM2 - Theory and Practice of Art History
+AHIS30020_2015_SM2 - Contemporary Art
+AHIS30021_2015_SM2 - The Medieval Image: Art and Culture
+AHIS40006_2015_SM1 - Postcolonial Visual Art
+AHIS40013_2015_JUN - Advanced Art Fieldwork
+AHIS40016_2015_JUN - Aboriginal Art in the Northern Territory
+AHIS40017_2015_SM1 - Art History Thesis
+AHIS40017_2015_SM2 - Art History Thesis
+AHIS40019_2015_SM1 - The Book: Late Antiquity to Renaissance
+AHIS40021_2015_SM1 - Art History Thesis
+AHIS40021_2015_SM2 - Art History Thesis
+AHIS90004_2015_SM2 - The Print Room
+AHIS90005_2015_SM1 - History and Philosophy of Museums
+AHIS90007_2015_SM2 - Biennales, Triennales and Documentas
+AIND10001_2015_SM1 - Communication and Performance 1
+AIND10002_2015_SM2 - Communication and Performance 2
+AIND20005_2015_SM2 - Aboriginal Land, Law and Philosophy
+AIND20007_2015_SM1 - Key Thinkers and Concepts
+AIND20008_2015_SM1 - Aboriginal Women and Coloniality
+AIND20009_2015_SM1 - Racial Literacy: Indigeneity & Whiteness
+AIND20010_2015_SM2 - Australian Environmental Philosophy
+AIND30007_2015_SM2 - Critical Debates in Indigenous Studies
+AIND30008_2015_SM1 - Historicising the Colonial Mythscape
+AIND30010_2015_SM1 - Aboriginal Cultural Studies
+AIND30011_2015_SM2 - Aboriginal Writing
+AIND40001_2015_SM2 - First Principles
+AIND40002_2015_SM1 - Australian Indigenous Studies Thesis
+AIND40002_2015_SM2 - Australian Indigenous Studies Thesis
+AIND40003_2015_SM1 - Activism, Selves and Histories
+AIND40005_2015_SM1 - Textual Revelations
+AIND40006_2015_SM1 - Australian Indigenous Studies Thesis
+AIND40006_2015_SM2 - Australian Indigenous Studies Thesis
+AIND90002_2015_AUG - Working in Indigenous Cultural Contexts
+AMGT40003_2015_SM1 - Arts Industry in Context
+AMGT50001_2015_FEB - Art and Cultural Management in Asia
+AMGT90001_2015_SM1 - Arts Management
+AMGT90001_2015_SM2 - Arts Management
+AMGT90002_2015_SM1 - Arts Law
+AMGT90004_2015_SM1 - Arts Policy and Issues
+AMGT90004_2015_SM2 - Arts Policy and Issues
+AMGT90006_2015_SM2 - Audiences and the Arts
+AMGT90007_2015_SM1 - Advanced Arts Management
+AMGT90011_2015_SM1 - Global Cultural Policy and Practice
+AMGT90012_2015_SM2 - Managing Creative Content
+AMGT90013_2015_SM1 - Finance and Budgeting
+AMGT90013_2015_SM2 - Finance and Budgeting
+AMGT90014_2015_SM1 - Directed Reading in Cultural Management
+AMGT90014_2015_SM2 - Directed Reading in Cultural Management
+AMGT90015_2015_SM1 - Cultural Management Project (Sem Long)
+AMGT90015_2015_SM2 - Cultural Management Project (Sem Long)
+AMGT90016_2015_SM1 - Cultural Management Project (Year Long)
+AMGT90016_2015_SM2 - Cultural Management Project (Year Long)
+AMGT90017_2015_SM1 - Communicating the Arts
+AMGT90018_2015_SM2 - The Economics of Culture
+AMGT90019_2015_SM1 - Minor Thesis - Arts Management
+AMGT90019_2015_SM2 - Minor Thesis - Arts Management
+AMGT90024_2015_SM1 - Cultural Festivals and Special Events
+AMGT90024_2015_SM2 - Cultural Festivals and Special Events
+ANCW10001_2015_SM1 - Ancient Egypt and Mesopotamia
+ANCW10002_2015_SM2 - Myth, Art and Empire: Greece and Rome
+ANCW10004_2015_FEB - Ancient Near Eastern Language: Syriac
+ANCW10005_2015_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW20003_2015_SM1 - Egypt Under the Pharaohs
+ANCW20013_2015_SM2 - Egyptian and Near Eastern Mythology
+ANCW20015_2015_SM1 - Classical Mythology
+ANCW20018_2015_FEB - Ancient Near Eastern Language: Syriac
+ANCW20019_2015_SM1 - The Rise and Fall of the Roman Republic
+ANCW20020_2015_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW20021_2015_JUN - Classical Mythology (Online)
+ANCW20022_2015_SM2 - Ancient Greece: History and Archaeology
+ANCW30001_2015_SM1 - Special Study Research Project
+ANCW30001_2015_SM2 - Special Study Research Project
+ANCW30004_2015_SM2 - Beyond Babylon
+ANCW30011_2015_SM1 - Underworld and Afterlife
+ANCW30016_2015_SM1 - The Age of Alexander the Great
+ANCW30017_2015_SM2 - Interpreting the Ancient World
+ANCW30020_2015_FEB - Ancient Near Eastern Language: Syriac
+ANCW30021_2015_SM2 - Imperial Rome: Mediterranean Superpower
+ANCW30022_2015_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW30023_2015_FEB - Practical Archaeology
+ANCW40003_2015_SM2 - Archaeology of Complex Societies
+ANCW40006_2015_SM1 - Age of Empires: Ancient Anatolia
+ANCW40007_2015_SM1 - Problems in Greek Prehistory
+ANCW40010_2015_SM1 - Classical Studies and Archaeology Thesis
+ANCW40010_2015_SM2 - Classical Studies and Archaeology Thesis
+ANCW40011_2015_SM1 - Ancient World Studies Thesis
+ANCW40011_2015_SM2 - Ancient World Studies Thesis
+ANCW40012_2015_SM1 - The Roman Way of Life
+ANCW40013_2015_SM1 - Ancient World Studies Thesis
+ANCW40013_2015_SM2 - Ancient World Studies Thesis
+ANCW40014_2015_SM1 - Research in Ancient World Studies
+ANCW40015_2015_SM2 - Gender and Sexuality in Greece and Rome
+ANTH10001_2015_SM2 - Anthropology: Studying Human Diversity
+ANTH20001_2015_SM2 - Keeping the Body in Mind
+ANTH20007_2015_SM1 - Working with Value
+ANTH20008_2015_SM2 - Anthropology of Gender and Sexuality
+ANTH20011_2015_SM2 - Ethnic Nationalism and the Modern World
+ANTH20012_2015_SM1 - Engaging the World in Theory & Practice
+ANTH30003_2015_SM1 - Religion: From Magicians to Politicians
+ANTH30004_2015_SM1 - Anthropology of Kinship and Family
+ANTH30005_2015_SM1 - Power, Ideology and Inequality
+ANTH30009_2015_SM2 - Anthropology of Nature
+ANTH30013_2015_SM2 - Theory & the Anthropological Imagination
+ANTH30015_2015_AUG - Critical Anthropological Theory
+ANTH40001_2015_MAR - Philosophy and Scope of Anthropology
+ANTH40003_2015_SM1 - Reading Anthropology
+ANTH40003_2015_SM2 - Reading Anthropology
+ANTH40007_2015_SM1 - Anthropology & Social Theory Thesis
+ANTH40007_2015_SM2 - Anthropology & Social Theory Thesis
+ANTH40008_2015_SM1 - Anthropology Thesis
+ANTH40008_2015_SM2 - Anthropology Thesis
+ANTH90004_2015_SM1 - Migration and Development
+ANTH90005_2015_AUG - Structure and Agency in Everyday Life
+ANTH90006_2015_SM2 - Genealogies of Anthropological Thought
+ANTH90007_2015_SM2 - Contemporary Cultural Theory & Research
+ARBC10001_2015_SM1 - Arabic 3
+ARBC10002_2015_SM2 - Arabic 4
+ARBC10003_2015_SM1 - Arabic 5
+ARBC10004_2015_SM2 - Arabic 6
+ARBC10005_2015_SM1 - Arabic 1
+ARBC10006_2015_SM2 - Arabic 2
+ARBC20001_2015_SM1 - Arabic in Context 1
+ARBC20002_2015_SM1 - Arabic 7
+ARBC20003_2015_SM2 - Arabic 8
+ARBC20004_2015_SM1 - Arabic 3
+ARBC20005_2015_SM2 - Arabic 4
+ARBC20006_2015_SM1 - Arabic 5
+ARBC20007_2015_SM2 - Arabic 6
+ARBC30001_2015_SM2 - Arabic in Context 2
+ARBC30002_2015_SM1 - Arabic 9
+ARBC30003_2015_SM2 - Arabic 10
+ARBC30004_2015_SM1 - Arabic 5
+ARBC30005_2015_SM2 - Arabic 6
+ARBC30006_2015_SM1 - Arabic 7
+ARBC30007_2015_SM2 - Arabic 8
+ARBC40001_2015_SM1 - Honours Arabic A
+ARBC40002_2015_SM2 - Honours Arabic B
+ARBC40005_2015_SM1 - Arabic Studies Thesis
+ARBC40005_2015_SM2 - Arabic Studies Thesis
+ARBC40006_2015_SM1 - Arabic Studies Thesis
+ARBC40006_2015_SM2 - Arabic Studies Thesis
+ARBC90002_2015_SM2 - Postgraduate Arabic B
+ARBC90003_2015_SM1 - Postgraduate Arabic A
+ASIA10001_2015_SM1 - Language and Power in Asian Societies
+ASIA20001_2015_SM1 - Media and Urban Culture in Asia
+ASIA30002_2015_SM2 - Identity, Ideology & Nationalism in Asia
+ASIA40002_2015_SM1 - Asian Studies Thesis
+ASIA40002_2015_SM2 - Asian Studies Thesis
+ASIA40003_2015_SM1 - Asian Studies Thesis
+ASIA40003_2015_SM2 - Asian Studies Thesis
+ASIA90001_2015_SM2 - Human Rights in Southeast Asia
+ASIA90003_2015_SM1 - Minor Thesis - Asian Studies
+ASIA90003_2015_SM2 - Minor Thesis - Asian Studies
+ASIA90004_2015_SM1 - Critical Asian Perspectives
+ASIA90008_2015_SM1 - Asia and the World
+AUST30001_2015_SM2 - Researching Australia: Issues, Agendas
+AUST90003_2015_SM1 - Australian Studies Thesis
+AUST90003_2015_SM2 - Australian Studies Thesis
+CHIN10001_2015_SM1 - Chinese 9
+CHIN10002_2015_SM2 - Chinese 10
+CHIN10003_2015_SM1 - Chinese 7
+CHIN10004_2015_SM2 - Chinese 8
+CHIN10005_2015_SM1 - Chinese 1
+CHIN10006_2015_SM2 - Chinese 2
+CHIN10007_2015_SM1 - Chinese 3 Post VCE
+CHIN10008_2015_SM2 - Chinese 4 Post VCE
+CHIN10009_2015_SM2 - Chinese Cinema
+CHIN10015_2015_SM1 - Chinese 3A
+CHIN10016_2015_SM2 - Chinese 4A
+CHIN10017_2015_SM1 - Chinese 5
+CHIN10018_2015_SM2 - Chinese 6
+CHIN20001_2015_SM1 - Chinese 3A
+CHIN20002_2015_SM2 - Chinese 4A
+CHIN20003_2015_SM1 - Chinese 5
+CHIN20004_2015_SM2 - Chinese 6
+CHIN20005_2015_SM1 - Modern Chinese Literature
+CHIN20006_2015_SM1 - Great Chinese Classics
+CHIN20007_2015_SM1 - Chinese Studies: Culture and Empire
+CHIN20008_2015_SM2 - China Since Mao
+CHIN20009_2015_SM1 - Chinese Economic Documents
+CHIN20010_2015_SM1 - Chinese 3B
+CHIN20011_2015_SM2 - Chinese 4B
+CHIN20012_2015_SM1 - Chinese 9
+CHIN20013_2015_SM2 - Chinese 10
+CHIN20016_2015_SM2 - Chinese Cinema
+CHIN20021_2015_SM2 - Analysis of Contemporary Chinese Society
+CHIN20022_2015_SM1 - Advanced Seminar in Chinese
+CHIN20025_2015_SM2 - Human Rights in China & East Asia
+CHIN20026_2015_SM2 - Advanced Chinese Translation
+CHIN20027_2015_SM1 - Chinese 7
+CHIN20028_2015_SM2 - Chinese 8
+CHIN20029_2015_SM1 - Understanding the New Media in China
+CHIN30001_2015_SM2 - Classic Chinese Civilisation
+CHIN30002_2015_SM1 - Taiwan & Beyond: Chinese Settler Culture
+CHIN30003_2015_SM2 - Chinese News Analysis
+CHIN30005_2015_SM2 - Advanced Chinese Translation
+CHIN30006_2015_SM2 - Analysis of Contemporary Chinese Society
+CHIN30007_2015_SM1 - Advanced Seminar in Chinese
+CHIN30008_2015_SM1 - Chinese 5
+CHIN30009_2015_SM2 - Chinese 6
+CHIN30010_2015_SM1 - Modern Chinese Literature
+CHIN30011_2015_SM1 - Great Chinese Classics
+CHIN30012_2015_SM1 - Chinese Economic Documents
+CHIN30018_2015_SM2 - Chinese Cinema
+CHIN30024_2015_SM1 - Understanding the New Media in China
+CHIN40004_2015_SM1 - Chinese Thesis
+CHIN40004_2015_SM2 - Chinese Thesis
+CHIN40005_2015_SM1 - Chinese Thesis
+CHIN40005_2015_SM2 - Chinese Thesis
+CHIN90001_2015_SM1 - Honours Chinese A
+CHIN90002_2015_SM2 - Honours Chinese B
+CHIN90003_2015_SM1 - Topics in Chinese Studies
+CHIN90005_2015_SM1 - Postgraduate Chinese A
+CHIN90006_2015_SM2 - Postgraduate Chinese B
+CICU30012_2015_SM2 - Contemporary Film and Cultural Theory
+CICU50001_2015_SM1 - Human Rights on Screen
+CLAS10003_2015_JAN - Intensive Beginners Latin
+CLAS10004_2015_SM1 - Ancient Greek 1
+CLAS10005_2015_SM2 - Ancient Greek 2
+CLAS10006_2015_SM1 - Latin 1
+CLAS10007_2015_SM2 - Latin 2
+CLAS10012_2015_SM1 - Latin 3
+CLAS10014_2015_SM2 - Latin 4
+CLAS10020_2015_SM1 - Ancient Greek 3
+CLAS10021_2015_SM2 - Ancient Greek 4
+CLAS10022_2015_JUN - Intensive Ancient Greek 1
+CLAS20013_2015_SM1 - Ancient Greek 5
+CLAS20014_2015_SM2 - Ancient Greek 6
+CLAS20015_2015_SM1 - Ancient Greek 3
+CLAS20016_2015_SM2 - Ancient Greek 4
+CLAS20021_2015_JAN - Intensive Beginners Latin
+CLAS20026_2015_SM2 - Latin 6
+CLAS20029_2015_SM1 - Latin 3
+CLAS20030_2015_SM1 - Latin 5
+CLAS20031_2015_SM2 - Latin 4
+CLAS20035_2015_JUN - Intensive Ancient Greek 1
+CLAS30004_2015_JAN - Intensive Beginners Latin
+CLAS30009_2015_SM2 - Latin 6
+CLAS30013_2015_SM1 - Latin 5
+CLAS30024_2015_SM1 - Ancient Greek 5
+CLAS30025_2015_SM2 - Ancient Greek 6
+CLAS30045_2015_JUN - Intensive Ancient Greek 1
+CLAS40020_2015_SM1 - Classics Thesis
+CLAS40020_2015_SM2 - Classics Thesis
+CLAS40032_2015_SM1 - Classics Thesis
+CLAS40032_2015_SM2 - Classics Thesis
+CLAS40033_2015_SM1 - Research in Classics
+CLAS40034_2015_SM1 - Classics Honours Seminar 1
+CLAS40035_2015_SM2 - Classics Honours Seminar 2
+CRIM10001_2015_SM1 - From Graffiti to Terrorism
+CRIM20002_2015_SM2 - Criminal Law and Political Justice
+CRIM20003_2015_SM1 - Policing
+CRIM20004_2015_SM2 - Order, Disorder, Crime, Deviance
+CRIM20006_2015_SM2 - Punishment and Social Control
+CRIM30001_2015_SM2 - Crime and Public Policy
+CRIM30002_2015_SM2 - Global Criminologies
+CRIM30005_2015_SM2 - Crimes of the Powerful
+CRIM30010_2015_SM2 - Managing Justice: Agencies and the State
+CRIM30011_2015_SM1 - Young People, Crime and Justice
+CRIM40002_2015_SM1 - Qualitative Research Methods
+CRIM40003_2015_SM2 - Drugs and Justice
+CRIM40005_2015_JUL - The New Punitiveness?
+CRIM40006_2015_SM1 - Criminology Thesis
+CRIM40006_2015_SM2 - Criminology Thesis
+CRIM40007_2015_SM1 - Criminology Thesis
+CRIM40007_2015_SM2 - Criminology Thesis
+CRIM90004_2015_SM1 - Taming Business? Crime, Law and Politics
+CRIM90005_2015_SM1 - Minor Thesis - Criminology
+CRIM90005_2015_SM2 - Minor Thesis - Criminology
+CRIM90006_2015_SM1 - Criminology and Sociology Internship
+CRIM90006_2015_SM2 - Criminology and Sociology Internship
+CRIM90007_2015_SM2 - Genocide, State Crime and the Law
+CRIM90009_2015_SM1 - Judging Crime
+CRIM90010_2015_AUG - Crime Prevention: Critical Approaches
+CRIM90011_2015_JUL - Research and Criminal Justice Governance
+CRIM90015_2015_SM2 - Terror, Law and War
+CRIM90016_2015_SM1 - Global Reconstructions of Justice
+CRIM90017_2015_MAY - Violence, Trauma and Reconciliation
+CRIM90018_2015_SM2 - Advances in Criminology: Emerging Theory
+CRIM90019_2015_SM1 - Advances in Criminological Research
+CRIM90020_2015_JUL - Framing Crime
+CRIM90024_2015_SM1 - Minor Thesis - Criminology
+CRIM90025_2015_AUG - Organised Crime and Human Trafficking
+CRIM90026_2015_SM2 - Critical Criminological Foundations
+CULS10005_2015_SM2 - Media, Identity and Everyday Life
+CULS20013_2015_NOV - LundU: Globalisation and Culture
+CULS20014_2015_SM2 - Television, Lifestyle & Consumer Culture
+CULS20015_2015_SM1 - Rock to Rave
+CULS20016_2015_SM1 - Media Histories
+CULS30002_2015_SM1 - Asian Cinema and Media
+CULS30003_2015_SM2 - City Cultures
+CULS30004_2015_SM1 - Thinking Sex
+CULS40001_2015_SM1 - Cultural Policy and Power
+CULS40005_2015_SM2 - Subcultural Studies
+CULS40009_2015_SM1 - Cultural Studies Thesis
+CULS40009_2015_SM2 - Cultural Studies Thesis
+CULS40011_2015_SM1 - Cultural Studies Now
+CULS90002_2015_SM1 - Cultural Studies Thesis
+CULS90002_2015_SM2 - Cultural Studies Thesis
+CULS90003_2015_SM1 - Cultural Studies Thesis
+CULS90003_2015_SM2 - Cultural Studies Thesis
+CULS90004_2015_SM2 - Cultural Complexity and Intelligence
+CULS90005_2015_SM2 - Social Science Research Methods
+CULS90006_2015_APR - Race, Gender, Empire
+CUMC40001_2015_MAR - Conservation Professional Practices
+CUMC40002_2015_OCT - RESPECT
+CUMC40003_2015_MAR - Introduction to Materials and Techniques
+CUMC40004_2015_AUG - Preventive Conservation
+CUMC40005_2015_JUL - Conservation Assessment and Treatment 1
+CUMC40006_2015_SEP - Analytical Chemistry in Conservation
+CUMC40007_2015_MAY - Technical Examination and Documentation
+CUMC40008_2015_MAY - Conservation Materials Chemistry
+CUMC90003_2015_JUL - Conservation Intensive
+CUMC90005_2015_FEB - Conservation Assessment and Treatment 2
+CUMC90006_2015_SM1 - Conservation Internship
+CUMC90006_2015_SM2 - Conservation Internship
+CUMC90007_2015_SM1 - Minor Thesis - Conservation
+CUMC90007_2015_SM2 - Minor Thesis - Conservation
+CUMC90009_2015_JUL - Conservation of Photographs 1
+CUMC90020_2015_APR - Audio Visual Preservation
+CUMC90021_2015_JUL - Documentation and Display
+CUMC90023_2015_JUN - Content Creation in the Field
+CWRI10001_2015_SM1 - Creative Writing: Ideas and Practice
+CWRI20002_2015_SM2 - Short Fiction
+CWRI20005_2015_SM1 - Creative Non Fiction
+CWRI20006_2015_SM1 - Script for Performance
+CWRI20007_2015_SM1 - Poetry
+CWRI20009_2015_SM2 - Writing for Screen
+CWRI30001_2015_SM1 - Novels
+CWRI30004_2015_SM2 - Encounters with Writing
+CWRI30005_2015_SM2 - Writing For Theatre
+CWRI30006_2015_SM1 - Poetry and Poetics
+CWRI30013_2015_SM2 - Biography and Autobiography
+CWRI30014_2015_SM1 - Advanced Screenwriting
+CWRI40004_2015_SM1 - Theory For Writing
+CWRI40008_2015_SM1 - Creative Writing Thesis - 50
+CWRI40008_2015_SM2 - Creative Writing Thesis - 50
+CWRI40009_2015_SM2 - Genealogies of Place
+CWRI40010_2015_SM1 - Contemporary Fictions
+CWRI40011_2015_SM1 - Graphic Narratives
+CWRI40012_2015_SM2 - The Dialogic Imagination in Context
+CWRI40013_2015_SM2 - New Script
+CWRI40014_2015_SM2 - Writing Australia
+CWRI90004_2015_SEP - Creative Writing Advanced Workshop
+CWRI90008_2015_SM1 - Minor Thesis - Creative Writing
+CWRI90008_2015_SM2 - Minor Thesis - Creative Writing
+CWRI90009_2015_SM1 - Young Adult Fiction
+CWRI90011_2015_SM1 - Advanced Writing Project
+CWRI90011_2015_SM2 - Advanced Writing Project
+CWRI90012_2015_SM2 - Creative Writing in the Academy
+CWRI90013_2015_SM2 - A History of Walking and Writing
+CWRI90014_2015_SM2 - Questions & Research in Creative Writing
+DEVT10001_2015_SM1 - The Developing World
+DEVT20001_2015_SM2 - Development in the 21st Century
+DEVT40007_2015_SM1 - Health and Development
+DEVT40008_2015_SM1 - Development Studies Thesis
+DEVT40008_2015_SM2 - Development Studies Thesis
+DEVT50001_2015_SM1 - Development, Culture and Conflict
+DEVT50002_2015_SM2 - Poverty, Microfinance and Development
+DEVT90001_2015_SM1 - Project Management & Design
+DEVT90002_2015_JAN - Internship in Development
+DEVT90002_2015_SM1 - Internship in Development
+DEVT90002_2015_SM2 - Internship in Development
+DEVT90005_2015_SM1 - Development Studies Special Topics B
+DEVT90007_2015_AUG - Development Studies Special Topics A
+DEVT90008_2015_JAN - International Internship in Development
+DEVT90008_2015_SM1 - International Internship in Development
+DEVT90008_2015_SM2 - International Internship in Development
+DEVT90009_2015_SM1 - Development Theories
+DEVT90011_2015_SM1 - Minor Thesis - Development Studies
+DEVT90011_2015_SM2 - Minor Thesis - Development Studies
+DEVT90035_2015_SM2 - Monitoring and Evaluation in Development
+DEVT90039_2015_SM2 - Civil Society, NGOs and the State
+DEVT90040_2015_SM2 - Gender Issues in Development
+DEVT90041_2015_JUL - Research Methods for Development
+DEVT90041_2015_MAR - Research Methods for Development
+DEVT90043_2015_SEP - Management in Development B
+DEVT90044_2015_MAY - Management in Development A
+DEVT90045_2015_SM1 - Socio-Economic Development
+DEVT90046_2015_SM1 - Family, Community and Development
+DEVT90047_2015_SM2 - Development Strategies
+DEVT90048_2015_AUG - Research in Development
+DEVT90048_2015_MAR - Research in Development
+DEVT90049_2015_MAY - Politics of Development in Africa
+DEVT90051_2015_AUG - Political Economy ofDevelopment in India
+DEVT90052_2015_SM2 - Debating Development
+ECON20010_2015_AUG - TDM International Negotiation
+ECON20010_2015_JAN - TDM International Negotiation
+EDUC20079_2015_JAN - UB: Global Educ: Issues & Opportunities
+ENGL10001_2015_SM2 - Modern and Contemporary Literature
+ENGL10002_2015_SM1 - Literature and Performance
+ENGL10004_2015_SM1 - Introduction to Indigenous Literature
+ENGL10005_2015_SM1 - English for Academic Purposes
+ENGL20009_2015_SM2 - The Australian Imaginary
+ENGL20020_2015_SM1 - Romanticism, Feminism, Revolution
+ENGL20022_2015_SM1 - Modernism and Avant Garde
+ENGL20023_2015_SM2 - American Classics
+ENGL20030_2015_SM1 - Modern and Contemporary Drama
+ENGL20031_2015_SM1 - Adaptation and Transgression
+ENGL20032_2015_SM2 - Poetry, Love, and Death
+ENGL30002_2015_SM2 - Critical Debates
+ENGL30006_2015_SM1 - Global Literature and Postcolonialism
+ENGL30007_2015_SM1 - Genre Fiction/Popular Fiction
+ENGL30013_2015_SM2 - Gothic Fictions
+ENGL30016_2015_SM1 - Decadent Literature
+ENGL30036_2015_SM1 - Theatre After the Sixties
+ENGL30046_2015_SM2 - Romancing the Medieval
+ENGL30047_2015_SM1 - Literature, Ecology, Catastrophe
+ENGL30047_2015_SM2 - Literature, Ecology, Catastrophe
+ENGL30048_2015_SM2 - Performance and the World
+ENGL40003_2015_SM2 - Medieval Temporalities
+ENGL40007_2015_SM2 - Romanticism and Modernity
+ENGL40015_2015_SM2 - American Fiction: The 20th Century
+ENGL40018_2015_SM1 - Byromania: Romantic Literary Celebrity
+ENGL40019_2015_SM1 - English Thesis
+ENGL40019_2015_SM2 - English Thesis
+ENGL40020_2015_SM2 - Australian Theatre and Performance
+ENGL40022_2015_SM2 - Cosmic Pandaemonium in Paradise Lost
+ENGL40023_2015_SM1 - English & Theatre Studies Thesis
+ENGL40023_2015_SM2 - English & Theatre Studies Thesis
+ENGL40024_2015_SM1 - Renaissance Drama
+ENGL90002_2015_SM2 - Critical Readings: The Great Works
+ENST10001_2015_SM2 - Environment and Story
+ENST10002_2015_SM1 - Reading Western Literature
+ENVS20002_2015_JAN - UB: Global Environmental Issues
+ESLA10003_2015_SM1 - Academic English 1
+ESLA10003_2015_SM2 - Academic English 1
+ESLA10004_2015_SM1 - Academic English 2
+ESLA10004_2015_SM2 - Academic English 2
+ESLA10005_2015_SM1 - Academic English: Economics and Business
+EURO10002_2015_SM2 - Eurovisions
+EURO20003_2015_SM1 - Memory & Memoirs of 20th Century Europe
+EURO20006_2015_SM2 - Europe: Making and Breaking of Nations
+EURO20007_2015_FEB - A Taste of Europe: Melbourne Intensive
+EURO30002_2015_SM1 - Memory & Memoirs of 20th Century Europe
+EURO30005_2015_SM2 - Europe: Making and Breaking of Nations
+EURO30006_2015_FEB - A Taste of Europe: Melbourne Intensive
+EURO40001_2015_SM2 - Introduction to European Critical Theory
+EURO40002_2015_SM1 - Seminars in Languages and Linguistics A
+EURO40002_2015_SM2 - Seminars in Languages and Linguistics A
+EURO40003_2015_SM1 - Seminars in Languages and Linguistics B
+EURO40003_2015_SM2 - Seminars in Languages and Linguistics B
+FREN10001_2015_SM1 - French 3
+FREN10003_2015_SM2 - French 4
+FREN10004_2015_SM1 - French 1
+FREN10005_2015_SM2 - French 2
+FREN10006_2015_SM1 - French 5
+FREN10007_2015_SM2 - French 6
+FREN20001_2015_SM1 - French 5
+FREN20002_2015_SM2 - French 6
+FREN20003_2015_SM2 - Romanticism to Decadence: French Novels
+FREN20004_2015_SM2 - French Translation
+FREN20011_2015_SM1 - French Cinema: The New Wave and Beyond
+FREN20013_2015_SM1 - Matters of Taste: French Eating Cultures
+FREN20015_2015_SM1 - French 3
+FREN20016_2015_SM2 - French Cultural Studies
+FREN20017_2015_SM2 - French 4
+FREN20018_2015_JAN - Intensive French 3 and 4
+FREN20019_2015_SM1 - French 7
+FREN20021_2015_JUN - New Caledonia in the 21st Century
+FREN30001_2015_SM1 - French 7
+FREN30003_2015_SM1 - French 5
+FREN30004_2015_SM2 - French 6
+FREN30005_2015_SM2 - Romanticism to Decadence: French Novels
+FREN30006_2015_SM2 - French Translation
+FREN30013_2015_SM1 - French Cinema: The New Wave and Beyond
+FREN30015_2015_SM1 - Matters of Taste: French Eating Cultures
+FREN30019_2015_JUN - New Caledonia in the 21st Century
+FREN40003_2015_SM1 - Medieval and Renaissance French
+FREN40004_2015_SM2 - Espaces Francophones
+FREN40005_2015_SM1 - French IV: Honours Language I
+FREN40009_2015_SM1 - French Thesis
+FREN40009_2015_SM2 - French Thesis
+FREN90002_2015_SM1 - French in a Global World
+FREN90002_2015_SM2 - French in a Global World
+FREN90003_2015_SM1 - Graduate French A
+FREN90004_2015_SM2 - Graduate French B
+GEND10001_2015_SM2 - Sex, Gender and Culture: An Introduction
+GEND20001_2015_SM2 - Sex, Gender and Power
+GEND20003_2015_SM1 - Genders, Bodies, Borders
+GEND20005_2015_AUG - LundU:Globalisation and Gender Relations
+GEND20006_2015_SM1 - Sexing the Canvas: 10 Works in the NGV
+GEND20007_2015_SM2 - Hidden Histories: Gender and Testimony
+GEND20008_2015_SM2 - Sex and Gender Present and Future
+GEND30003_2015_SM2 - Gender at Work in The World
+GEND30004_2015_SM1 - Gender, Culture and Psychoanalysis
+GEND40001_2015_SM1 - Gender Studies Thesis
+GEND40001_2015_SM2 - Gender Studies Thesis
+GEND40002_2015_SM1 - Gender Studies Reading Course
+GEND40002_2015_SM2 - Gender Studies Reading Course
+GEND40003_2015_SM1 - Gender in Cross-Cultural Perspective
+GEND90004_2015_SM1 - Minor Thesis - Gender and Development
+GEND90004_2015_SM2 - Minor Thesis - Gender and Development
+GEND90006_2015_MAR - Gender, Globalisation and Development
+GEND90007_2015_SM2 - Rethinking Rights and Global Development
+GEND90008_2015_SM1 - Gender Reading Course
+GEND90008_2015_SM2 - Gender Reading Course
+GERM10001_2015_SM1 - German 3
+GERM10002_2015_SM2 - German 4
+GERM10004_2015_SM1 - German 1
+GERM10005_2015_SM2 - German 2
+GERM10006_2015_SM1 - German 5
+GERM10007_2015_SM2 - German 6
+GERM10008_2015_SM1 - German 7
+GERM10009_2015_SM2 - German 8
+GERM20001_2015_SM1 - German 7
+GERM20002_2015_SM2 - German 8
+GERM20003_2015_SM1 - German Cultural Studies B
+GERM20003_2015_SM2 - German Cultural Studies B
+GERM20004_2015_SM1 - German 3
+GERM20005_2015_SM2 - German 4
+GERM20006_2015_SM2 - German Cultural Studies A
+GERM20007_2015_SM1 - German 5
+GERM20008_2015_SM2 - German 6
+GERM20009_2015_SM1 - German 9
+GERM20010_2015_SM2 - German 10
+GERM30001_2015_SM1 - German Cultural Studies B
+GERM30001_2015_SM2 - German Cultural Studies B
+GERM30002_2015_SM1 - German Cultural Studies C
+GERM30002_2015_SM2 - German Cultural Studies C
+GERM30003_2015_SM1 - German 9
+GERM30004_2015_SM2 - German 10
+GERM30005_2015_SM1 - German 5
+GERM30006_2015_SM2 - German 6
+GERM30021_2015_SM1 - German 7
+GERM30022_2015_SM2 - German 8
+GERM40002_2015_SM1 - German 4: Research Project
+GERM40002_2015_SM2 - German 4: Research Project
+GERM40010_2015_SM1 - German Honours Language
+GERM40015_2015_SM1 - German Thesis
+GERM40015_2015_SM2 - German Thesis
+GERM90002_2015_SM1 - German in a Global World
+GERM90002_2015_SM2 - German in a Global World
+GERM90003_2015_SM1 - Graduate German A
+GERM90004_2015_SM2 - Graduate German B
+HEBR10001_2015_SM1 - Hebrew 1
+HEBR10002_2015_SM2 - Hebrew 2
+HEBR10005_2015_SM1 - Hebrew 3
+HEBR10006_2015_SM2 - Hebrew 4
+HEBR10011_2015_SM1 - Hebrew 5
+HEBR10012_2015_SM2 - Hebrew 6
+HEBR20005_2015_SM1 - Hebrew 3
+HEBR20006_2015_SM2 - Hebrew 4
+HEBR20007_2015_SM1 - Hebrew 5
+HEBR20008_2015_SM2 - Hebrew 6
+HEBR30003_2015_SM1 - Hebrew 5
+HEBR30004_2015_SM2 - Hebrew 6
+HIST10007_2015_SM1 - Medieval Plague, War and Heresy
+HIST10010_2015_SM2 - Age of Empires
+HIST10012_2015_SM2 - The World Since World War II
+HIST10014_2015_SM1 - The Great War 1914 to 1918
+HIST20010_2015_JUL - The First Centuries of Islam
+HIST20013_2015_SM2 - The Holocaust & Genocide
+HIST20034_2015_SM2 - Modern Southeast Asia
+HIST20035_2015_SM1 - Modern & Contemporary Ireland Since 1790
+HIST20052_2015_NOV - Venice and Cultures of Consumption
+HIST20059_2015_SM1 - American History: Revolution to WWII
+HIST20060_2015_SM1 - Total War: World War II
+HIST20062_2015_JAN - UNott:The Contemporary World Since 1945
+HIST20065_2015_SM1 - Rebels and Revolutionaries
+HIST20068_2015_SM2 - The French Revolution
+HIST20069_2015_SM1 - Modern European History 1789  to 1914
+HIST20070_2015_SM2 - Australia in the World 1914 to 2014
+HIST20071_2015_SM2 - American History from JFK to Obama
+HIST20072_2015_SM1 - Pirates and their Enemies
+HIST20073_2015_NOV - Town and Country in China and the West
+HIST20075_2015_SM1 - Migrant Nation: Culture and Identity
+HIST20076_2015_SM2 - Making China Modern
+HIST30004_2015_SM1 - A History of Sexualities
+HIST30006_2015_SM2 - The Renaissance in Italy
+HIST30010_2015_SM2 - Hitler's Germany
+HIST30015_2015_SM1 - The Modern Middle East
+HIST30051_2015_NOV - Venice and Cultures of Consumption
+HIST30059_2015_SM2 - Race in America
+HIST30060_2015_SM2 - Making History
+HIST30064_2015_SM1 - Controversies in Australian History
+HIST30065_2015_SM1 - USA and the World: Empire of Liberty?
+HIST30066_2015_SM1 - Cold War Cultures in Asia
+HIST30067_2015_SM2 - Metropolis: City and Society in History
+HIST30068_2015_SM1 - A History of Violence
+HIST30070_2015_NOV - Town and Country in China and the West
+HIST30071_2015_FEB - Urban Legends: Melbourne Intensive
+HIST30072_2015_JUL - China & the World: Empire to Great Power
+HIST40001_2015_SM2 - History 4A
+HIST40028_2015_SM1 - History Thesis
+HIST40028_2015_SM2 - History Thesis
+HIST40030_2015_SM1 - History for Historians
+HIST40036_2015_SM1 - History Thesis
+HIST40036_2015_SM2 - History Thesis
+HIST40037_2015_SM2 - The Long History of Globalisation
+HIST90023_2015_SM1 - The Writing of Australian History
+HIST90024_2015_SM1 - International History
+HIST90024_2015_SM2 - International History
+HIST90026_2015_SM2 - History, Memory and Violence in Asia
+HIST90027_2015_SM2 - Middle Eastern Wars: Jihad & Resistance
+HIST90031_2015_SM1 - International Relations Minor Thesis
+HIST90031_2015_SM2 - International Relations Minor Thesis
+HPSC10001_2015_SM2 - From Plato to Einstein
+HPSC10002_2015_SM1 - Science and Pseudoscience
+HPSC20001_2015_SM2 - Darwinism: history of a very big idea
+HPSC20002_2015_JAN - A History of Nature
+HPSC20009_2015_JAN - Technology & Contemporary Life
+HPSC20015_2015_FEB - Astronomy in World History
+HPSC20020_2015_SM1 - God and the Natural Sciences
+HPSC30019_2015_SM2 - Minds and Madness
+HPSC30023_2015_SM1 - Science and Society
+HPSC30034_2015_SM1 - Magic, Reason, New Worlds, 1450-1750
+HPSC30035_2015_SM2 - Knowledge in the Making
+HPSC30036_2015_JUL - Forensic Science & the Law: A Case Study
+HPSC40002_2015_SM1 - Directed Study
+HPSC40002_2015_SM2 - Directed Study
+HPSC40010_2015_SM1 - HPS Thesis
+HPSC40010_2015_SM2 - HPS Thesis
+HPSC40015_2015_SM1 - HPS Thesis
+HPSC40015_2015_SM2 - HPS Thesis
+HPSC40016_2015_SM1 - Contemporary Approaches in HPS
+HPSC40017_2015_SM2 - Sociology of Science and Technology
+HPSC90010_2015_SM1 - Environment and Knowledge
+HPSC90011_2015_SM1 - Executive Internship
+HPSC90011_2015_SM2 - Executive Internship
+HPSC90012_2015_SM2 - Trust, Credibility and Expertise
+HPSC90013_2015_SM1 - Science, Controversy and Public Policy
+IBUS20005_2015_AUG - TDM: Enterprise & Business in the World
+IBUS20005_2015_JAN - TDM: Enterprise & Business in the World
+INDO10001_2015_SM1 - Indonesian 3
+INDO10002_2015_SM2 - Indonesian 4
+INDO10003_2015_SM1 - Indonesian 5
+INDO10004_2015_SM2 - Indonesian 6
+INDO10005_2015_SM1 - Indonesian 1
+INDO10006_2015_SM2 - Indonesian 2
+INDO10011_2015_SM2 - Diversity: Identities in Indonesia
+INDO10012_2015_SM1 - Literature: Reading Indonesian Lives
+INDO10013_2015_SM2 - Translation: Intercultural Indonesian
+INDO10014_2015_SM1 - Indonesia in the World
+INDO20001_2015_SM1 - Analysing Indonesia: Concepts and Issues
+INDO20006_2015_SM1 - Indonesian 3
+INDO20007_2015_SM2 - Indonesian 4
+INDO20008_2015_SM1 - Indonesian 5
+INDO20009_2015_SM2 - Indonesian 6
+INDO20014_2015_SM2 - Diversity: Identities in Indonesia
+INDO20015_2015_SM1 - Literature: Reading Indonesian Lives
+INDO20016_2015_SM2 - Translation: Intercultural Indonesian
+INDO20017_2015_SM1 - Indonesia in the World
+INDO30002_2015_SM2 - Creative Industries in Indonesia
+INDO30006_2015_SM1 - Literature: Reading Indonesian Lives
+INDO30007_2015_SM2 - Indonesian 6
+INDO30011_2015_SM1 - Indonesian 5
+INDO30017_2015_SM2 - Indonesian Languages in Social Context
+INDO30018_2015_SM2 - Diversity: Identities in Indonesia
+INDO30019_2015_SM2 - Translation: Intercultural Indonesian
+INDO30020_2015_SM1 - Indonesia in the World
+INDO40001_2015_SM1 - Honours Indonesian A
+INDO40002_2015_SM2 - Honours Indonesian B
+INDO40003_2015_SM1 - Topics in Indonesian Studies
+INDO40006_2015_SM1 - Indonesian Thesis
+INDO40006_2015_SM2 - Indonesian Thesis
+INDO40007_2015_SM1 - Indonesian Thesis
+INDO40007_2015_SM2 - Indonesian Thesis
+INDO90002_2015_SM1 - Postgraduate Indonesian A
+INDO90003_2015_SM2 - Postgraduate Indonesian B
+INTS10001_2015_SM2 - International Politics
+INTS90003_2015_SM1 - International Studies Thesis
+INTS90003_2015_SM2 - International Studies Thesis
+INTS90007_2015_SM2 - Rising China in the Globalised World
+INTS90008_2015_SM1 - Education and State Power in China
+ISLM10001_2015_SM1 - Understanding Islam and Muslim Societies
+ISLM10002_2015_SM2 - Islam in the Modern World
+ISLM20003_2015_SM1 - The Qur'an: An Introduction
+ISLM20009_2015_SM1 - Islam, Media and Conflict
+ISLM20015_2015_SM1 - Crisis Zone: Middle Eastern Politics
+ISLM20016_2015_SM1 - Sufism: The Spiritual Dimension of Islam
+ISLM30001_2015_SM2 - Islam in the West
+ISLM30003_2015_SM2 - Ethical Traditions in Islam
+ISLM30015_2015_SM1 - Crisis Zone: Middle Eastern Politics
+ISLM40001_2015_SM1 - Topics in Arabic & Islamic Studies
+ISLM40001_2015_SM2 - Topics in Arabic & Islamic Studies
+ISLM40009_2015_SM1 - Islamic Studies Thesis
+ISLM40009_2015_SM2 - Islamic Studies Thesis
+ISLM40010_2015_SM1 - Islamic Studies Thesis
+ISLM40010_2015_SM2 - Islamic Studies Thesis
+ISLM90007_2015_FEB - Contemporary Middle East & Central Asia
+ISLM90008_2015_JUL - Islam and Politics
+ISLM90011_2015_SM2 - Reason and Revelation in Islam
+ISLM90013_2015_JUL - Human Rights and Islam
+ISLM90014_2015_SM1 - Islamic Studies Thesis
+ISLM90014_2015_SM2 - Islamic Studies Thesis
+ITAL10001_2015_SM1 - Italian 3
+ITAL10002_2015_SM2 - Italian 4
+ITAL10004_2015_SM1 - Italian 1
+ITAL10005_2015_SM2 - Italian 2
+ITAL10006_2015_SM1 - Italian 5
+ITAL10007_2015_SM2 - Italian 6
+ITAL20001_2015_SM2 - Italian Cultural Studies B
+ITAL20002_2015_SM1 - Italian 7
+ITAL20003_2015_SM2 - Italian 8
+ITAL20006_2015_NOV - Languages of Venice: Study Abroad
+ITAL20007_2015_SM1 - Italian 3
+ITAL20008_2015_SM2 - Italian 4
+ITAL20009_2015_SM2 - Italian Cultural Studies A
+ITAL20010_2015_SM2 - Italian 6
+ITAL20011_2015_SM1 - Italian 5
+ITAL30001_2015_SM1 - Italian 9
+ITAL30003_2015_SM1 - Italian 5A
+ITAL30004_2015_SM2 - Italian Language in Focus
+ITAL30007_2015_SM1 - To Hell with Dante
+ITAL30012_2015_NOV - Languages of Venice: Study Abroad
+ITAL30013_2015_SM1 - Italian 5
+ITAL30014_2015_SM2 - Italian 6
+ITAL30015_2015_SM1 - Italian 7
+ITAL30016_2015_SM2 - Italian 8
+ITAL40001_2015_SM1 - Italian Honours Language Seminar 1
+ITAL40014_2015_SM1 - Italian Thesis
+ITAL40014_2015_SM2 - Italian Thesis
+ITAL90002_2015_SM1 - Italian in a Global World
+ITAL90002_2015_SM2 - Italian in a Global World
+ITAL90003_2015_SM1 - Graduate Italian A
+ITAL90004_2015_SM2 - Graduate Italian B
+JAPN10001_2015_SM1 - Japanese 1
+JAPN10002_2015_SM2 - Japanese 2
+JAPN10003_2015_SM1 - Japanese 5
+JAPN10004_2015_SM2 - Japanese 6
+JAPN10005_2015_SM1 - Japanese 7
+JAPN10006_2015_SM2 - Japanese 8
+JAPN10007_2015_SM1 - Japanese 3
+JAPN10008_2015_SM2 - Japanese 4
+JAPN10009_2015_SM2 - Reading Japanese Literature
+JAPN10010_2015_SM1 - Variation in Japanese Language
+JAPN20002_2015_SM2 - Introduction to Japanese Communication
+JAPN20003_2015_SM1 - Japanese 7
+JAPN20004_2015_SM2 - Japanese 8
+JAPN20005_2015_SM1 - Contemporary Japan
+JAPN20007_2015_SM1 - Japanese 3
+JAPN20008_2015_SM2 - Japanese 4
+JAPN20009_2015_SM1 - Sign and Symbols in Japanese
+JAPN20010_2015_SM2 - Japanese Grammar in Action
+JAPN20011_2015_SM2 - Reading Japanese Literature
+JAPN20012_2015_SM1 - Variation in Japanese Language
+JAPN20013_2015_SM1 - Japanese 5
+JAPN20014_2015_SM2 - Japanese 6
+JAPN20016_2015_SM2 - Japanese Through Translation
+JAPN20018_2015_SM1 - Japanese Through the Media
+JAPN30002_2015_SM2 - Social Problems in Japan
+JAPN30003_2015_SM2 - Japanese Through Translation
+JAPN30004_2015_SM1 - Japanese through the Media
+JAPN30005_2015_SM1 - Japanese 7
+JAPN30006_2015_SM2 - Japanese 8
+JAPN30007_2015_SM1 - Japanese 5
+JAPN30008_2015_SM2 - Japanese 6
+JAPN30010_2015_SM1 - Sign and Symbols in Japanese
+JAPN30011_2015_SM2 - Reading Japanese Literature
+JAPN30012_2015_SM1 - Variation in Japanese Language
+JAPN30013_2015_SM2 - Japanese Grammar in Action
+JAPN40001_2015_SM1 - Honours Japanese A
+JAPN40002_2015_SM2 - Honours Japanese B
+JAPN40006_2015_SM1 - Japanese Thesis
+JAPN40006_2015_SM2 - Japanese Thesis
+JAPN40007_2015_SM1 - Japanese Thesis
+JAPN40007_2015_SM2 - Japanese Thesis
+JAPN90002_2015_SM1 - Postgraduate Japanese A
+JAPN90003_2015_SM2 - Postgraduate Japanese B
+JEWI20006_2015_SM2 - Israelis & Palestinians: Conflict, Peace
+JEWI20007_2015_SM1 - Modern Israel: Good Bad and Disputed
+JEWI30005_2015_SM2 - Research in Contemporary Jewish Studies
+JOUR90001_2015_SM1 - Researching/Writing Stories
+JOUR90001_2015_SM2 - Researching/Writing Stories
+JOUR90002_2015_SM1 - Journalism Thesis
+JOUR90002_2015_SM2 - Journalism Thesis
+JOUR90003_2015_SM1 - Journalism Internship
+JOUR90003_2015_SM2 - Journalism Internship
+JOUR90004_2015_SM2 - Journalism Entrepreneurship in New Media
+JOUR90005_2015_SM1 - Video and Audio Journalism
+JOUR90005_2015_SM2 - Video and Audio Journalism
+JOUR90006_2015_JUN - Dilemmas in Journalism: Law and Ethics
+JOUR90008_2015_JUN - Advanced Multi Media Journalism
+JOUR90009_2015_SM2 - Advanced Non Fiction Writing
+JOUR90010_2015_JUN_PAR_2 - Newsroom-Applied Professional Practice
+JOUR90010_2015_SM1 - Newsroom-Applied Professional Practice
+JOUR90010_2015_SM2_PAR_2 - Newsroom-Applied Professional Practice
+JOUR90011_2015_JAN - Data Journalism
+JOUR90012_2015_JAN - Journalism Project
+JOUR90012_2015_SM1 - Journalism Project
+JOUR90012_2015_SM2 - Journalism Project
+JOUR90013_2015_SM2 - Investigative Journalism
+LANG40003_2015_SM1 - Seminar in Languages 1
+LANG40003_2015_SM2 - Seminar in Languages 1
+LANG40004_2015_SM1 - Seminar in Languages 2
+LANG40004_2015_SM2 - Seminar in Languages 2
+LANG90001_2015_SM2 - Languages in Context
+LANG90002_2015_SM1 - Tools & Methods for Documenting Language
+LING10001_2015_SM2 - The Secret Life of Language
+LING10002_2015_SM1 - Intercultural Communication
+LING20003_2015_SM2 - Second Language Learning and Teaching
+LING20005_2015_SM1 - Phonetics
+LING20006_2015_SM2 - Syntax
+LING20009_2015_SM1 - Language in Aboriginal Australia
+LING20010_2015_SM2 - Language, Society and Culture
+LING20011_2015_SM1 - Grammar of English
+LING20012_2015_SM2 - Language and Media
+LING30001_2015_SM2 - Exploring Linguistic Diversity
+LING30002_2015_SM1 - Phonology
+LING30003_2015_SM1 - First Language Acquisition
+LING30004_2015_SM2 - Discourse & Pragmatics
+LING30007_2015_SM1 - Semantics
+LING40001_2015_SM1 - Directed Reading Project
+LING40001_2015_SM2 - Directed Reading Project
+LING40002_2015_SM1 - Issues in Linguistic Research
+LING40005_2015_SM1 - Structure of Aboriginal Languages
+LING40006_2015_SM2 - Linguistic Field Methods
+LING40014_2015_SM1 - Linguistics & Applied Linguistics Thesis
+LING40014_2015_SM2 - Linguistics & Applied Linguistics Thesis
+LING90002_2015_SM1 - Presenting Academic Discourse
+LING90002_2015_SM2 - Presenting Academic Discourse
+LING90003_2015_SM1 - Research in Applied Linguistics
+LING90003_2015_SM1_PAR_2 - Research in Applied Linguistics
+LING90005_2015_SM1 - Quantitative Methods in Language Studies
+LING90005_2015_SM1_PAR_2 - Quantitative Methods in Language Studies
+LING90006_2015_SM2 - Technology and Language Learning
+LING90006_2015_SM2_PAR_2 - Technology and Language Learning
+LING90007_2015_SM2 - Language Curriculum Design
+LING90009_2015_SM2 - Language Testing
+LING90009_2015_SM2_PAR_2 - Language Testing
+LING90010_2015_SM1 - Minor Thesis - Applied Linguistics
+LING90010_2015_SM1_PAR_2 - Minor Thesis - Applied Linguistics
+LING90010_2015_SM2 - Minor Thesis - Applied Linguistics
+LING90010_2015_SM2_PAR_2 - Minor Thesis - Applied Linguistics
+LING90012_2015_SM2 - Second Language Acquisition
+LING90012_2015_SM2_PAR_2 - Second Language Acquisition
+LING90015_2015_SM2 - English Phonetics and Phonology
+LING90015_2015_SM2_PAR_2 - English Phonetics and Phonology
+LING90016_2015_SM1 - Grammar in Use
+LING90016_2015_SM1_PAR_2 - Grammar in Use
+LING90018_2015_SM1 - Sociolinguistics and Language Learning
+LING90018_2015_SM1_PAR_2 - Sociolinguistics and Language Learning
+LING90019_2015_SM1 - English in a Globalised World
+LING90019_2015_SM1_PAR_2 - English in a Globalised World
+LING90020_2015_SM1 - Second Language Writing
+LING90020_2015_SM1_PAR_2 - Second Language Writing
+LING90022_2015_JAN - Intensive Academic Program
+LING90022_2015_JUN - Intensive Academic Program
+LING90026_2015_SM2 - Transcultural Communication at Work
+LING90028_2015_SM2 - Discourse and Interaction
+LING90028_2015_SM2_PAR_2 - Discourse and Interaction
+LING90029_2015_SM1 - Current Topics in Applied Linguistics
+LING90029_2015_SM2 - Current Topics in Applied Linguistics
+LING90030_2015_SM1 - Current Topics in Linguistics
+LING90030_2015_SM2 - Current Topics in Linguistics
+LING90031_2015_SM1 - Advanced Linguistics Analysis A
+LING90031_2015_SM2 - Advanced Linguistics Analysis A
+LING90032_2015_SM1 - Advanced Linguistics Analysis B
+LING90032_2015_SM2 - Advanced Linguistics Analysis B
+MAST10014_2015_SM1 - Foundation Mathematics 1
+MAST10015_2015_SM2 - Foundation Mathematics 2
+MECM10003_2015_SM1 - Media and Society
+MECM10006_2015_SM2 - Introduction to Media Writing
+MECM20003_2015_SM2 - Net Communications
+MECM20006_2015_SM1 - Understanding Australian Media
+MECM20010_2015_SM1 - Comparing Media Systems
+MECM20011_2015_SM2 - Approaches to Media Research
+MECM30002_2015_SM2 - Perspectives in Global Media Cultures
+MECM30004_2015_SM2 - Media Futures and New Technologies
+MECM30010_2015_SM1 - Writing Journalism
+MECM30013_2015_SM2 - Marketing Communications
+MECM30015_2015_SM1 - Media and Communications Project
+MECM30016_2015_SM1 - Digital Media Research
+MECM40003_2015_SM1 - Researching Audiences and Reception
+MECM40006_2015_SM1 - Public Relations and Communications
+MECM40007_2015_SM2 - Change in Journalism
+MECM40011_2015_SM1 - Writing for the Media
+MECM40016_2015_SM1 - Audiovisual Communication
+MECM40016_2015_SM2 - Audiovisual Communication
+MECM40017_2015_SM1 - Media & Communications Thesis
+MECM40017_2015_SM2 - Media & Communications Thesis
+MECM50001_2015_SM1 - Political Economy of the Network Society
+MECM90002_2015_SM1 - Global Media Policy & Governance
+MECM90003_2015_SM1 - Mobility, Culture and Communication
+MECM90007_2015_SM2 - Media Convergence and Digital Culture
+MECM90009_2015_SM2 - Global Crisis Reporting
+MECM90010_2015_JAN - Strategic Political Communication
+MECM90012_2015_SM1 - Media and Communications Thesis
+MECM90012_2015_SM2 - Media and Communications Thesis
+MECM90015_2015_JUN - History of Network Media
+MECM90016_2015_FEB - Representation and Advocacy
+MECM90017_2015_SM2 - Media Writing: Rhetoric and Practice
+MECM90019_2015_JUL - Social Media and Change
+MECM90020_2015_SM2 - Global Media: Theory and Research
+MECM90024_2015_SM2 - Writing for Marketing Communication
+MECM90025_2015_SM2 - Advanced Practice 2
+MGMT90126_2015_AUG - Budgets and Financial Management
+MGMT90127_2015_MAR - Leadership Theory & Practice
+MGMT90128_2015_AUG - Project Management
+MGMT90129_2015_SM1 - Group Project
+MGMT90129_2015_SM2 - Group Project
+MGMT90130_2015_SM2 - Internship I
+MGMT90131_2015_SM1 - Internship II
+MGMT90131_2015_SM2 - Internship II
+MGMT90132_2015_MAY - Professional Communication
+MGMT90160_2015_JUL - The Secret Life of Organisations
+MGMT90161_2015_SM2 - Internship III
+MGMT90164_2015_SM1 - EMA Special Project
+MGMT90164_2015_SM2 - EMA Special Project
+MGMT90209_2015_SM2 - EMA Career Project
+MKTG90027_2015_SM1 - Foundations of Marketing & Communication
+MKTG90028_2015_SM2 - Integrated Social Media Marketing
+MKTG90029_2015_SM1 - Marketing & Media in a Global Context
+MKTG90031_2015_SM1 - Minor Thesis - Marketing Communications
+MKTG90031_2015_SM2 - Minor Thesis - Marketing Communications
+MULT10001_2015_SM2 - Aboriginalities
+MULT10014_2015_SM1 - Identity
+MULT10015_2015_SM1 - Language
+MULT10016_2015_SM1 - Reason
+MULT10017_2015_SM2 - Representation
+MULT10018_2015_SM1 - Power
+MULT10019_2015_NOV - Arts in Florence
+MULT20003_2015_SM1 - Critical Analytical Skills
+MULT20008_2015_SM1 - Australian Indigenous Politics
+MULT20010_2015_SM1 - Arts Internship
+MULT20010_2015_SM2 - Arts Internship
+MULT20010_2015_SUM - Arts Internship
+MULT20012_2015_SM1 - Community Volunteering for Change
+MULT20012_2015_SM2 - Community Volunteering for Change
+MULT20013_2015_SM1 - Australia Now
+MULT20013_2015_SM2 - Australia Now
+MULT20014_2015_JAN - Community Volunteering for Change-Global
+MULT20014_2015_JUN - Community Volunteering for Change-Global
+MULT30008_2015_SM1 - Internship
+MULT30008_2015_SM2 - Internship
+MULT30008_2015_SUM - Internship
+MULT30009_2015_SM1 - Internship
+MULT30009_2015_SM2 - Internship
+MULT30009_2015_SUM - Internship
+MULT30010_2015_SM1 - Internship
+MULT30010_2015_SM2 - Internship
+MULT30010_2015_SUM - Internship
+MULT30015_2015_SM1 - Independent Research
+MULT30015_2015_SM2 - Independent Research
+MULT30015_2015_SUM - Independent Research
+MULT30015_2015_WIN - Independent Research
+MULT30016_2015_SM1 - Independent Research
+MULT30016_2015_SM2 - Independent Research
+MULT30016_2015_SUM - Independent Research
+MULT30017_2015_SM1 - Indigenous People and Social Control
+MULT30018_2015_SM2 - Applied Research Methods
+MULT30019_2015_SM1 - Arts Internship
+MULT30019_2015_SM2 - Arts Internship
+MULT30019_2015_SUM - Arts Internship
+MULT30020_2015_SM1 - Community Volunteering for Change
+MULT30020_2015_SM2 - Community Volunteering for Change
+MULT30021_2015_JAN - Community Volunteering for Change-Global
+MULT30021_2015_JUN - Community Volunteering for Change-Global
+MULT40001_2015_SM1 - Thesis Extension (25-point thesis)
+MULT40001_2015_SM2 - Thesis Extension (25-point thesis)
+MULT40001_2015_SUM - Thesis Extension (25-point thesis)
+MULT40002_2015_SM1 - Thesis Extension (37.5-point thesis)
+MULT40002_2015_SM2 - Thesis Extension (37.5-point thesis)
+MULT40002_2015_SUM - Thesis Extension (37.5-point thesis)
+MULT40003_2015_SM1 - Thesis Extension (50-point thesis)
+MULT40003_2015_SM2 - Thesis Extension (50-point thesis)
+MULT40003_2015_SUM - Thesis Extension (50-point thesis)
+MULT40007_2015_SM1 - Special Research Topics
+MULT40007_2015_SM2 - Special Research Topics
+MULT40008_2015_SM1 - Special Research Subject A
+MULT40008_2015_SM2 - Special Research Subject A
+MULT50001_2015_FEB - Research Principles and Practices
+MULT50001_2015_JUL - Research Principles and Practices
+MULT50002_2015_FEB - Indigenous Peoples in Global Context
+MULT90002_2015_SM1 - Supervised Reading (Asia Institute)
+MULT90002_2015_SM2 - Supervised Reading (Asia Institute)
+MULT90018_2015_SM1 - Internship I (Placement Only)
+MULT90018_2015_SM2 - Internship I (Placement Only)
+MULT90019_2015_SM1 - Internship II (Semester Long)
+MULT90019_2015_SM2 - Internship II (Semester Long)
+MULT90023_2015_SM1 - Arts PhD Research Workshop
+MULT90023_2015_SM2 - Arts PhD Research Workshop
+MULT90025_2015_SM1 - Internship II (Year Long)
+MULT90025_2015_SM2 - Internship II (Year Long)
+MULT90026_2015_SM1 - PhD Elective 1
+MULT90026_2015_SM2 - PhD Elective 1
+MULT90027_2015_SM1 - PhD Elective 2
+MULT90027_2015_SM2 - PhD Elective 2
+MULT90028_2015_SM2 - GSHSS Advanced Special Study
+MULT90032_2015_SM1_PAR_4 - Researching the Past
+MULT90032_2015_SM2 - Researching the Past
+MULT90033_2015_SM1 - Researching Texts
+MULT90033_2015_SM2 - Researching Texts
+MULT90034_2015_SM1 - Researching Society and Culture
+MULT90034_2015_SM2 - Researching Society and Culture
+MULT90035_2015_SM1_PAR_2 - Researching Images
+MULT90035_2015_SM2 - Researching Images
+MULT90036_2015_SM1_PAR_2 - Researching Ideas
+MULT90036_2015_SM2 - Researching Ideas
+MULT90037_2015_SM1 - Researching Cultures
+MULT90037_2015_SM2 - Researching Cultures
+MULT90038_2015_SM1 - Researching Politics and Policy
+MULT90038_2015_SM2 - Researching Politics and Policy
+MULT90039_2015_SM1 - Researching Language
+MULT90039_2015_SM2 - Researching Language
+MULT90044_2015_SM2 - The Art & Practice of the Personal Essay
+MULT90049_2015_SM2 - New Approaches to the Age of Revolutions
+MULT90052_2015_SM2 - Greco-Roman Governance and Public Policy
+MULT90058_2015_AUG - Conflict, Security and Development
+MULT90059_2015_SM2 - Social Enterprise Incubator
+PADM90001_2015_MAR - Administrative Challenges in Practice
+PADM90002_2015_JUL - Managing Effectively
+PADM90003_2015_AUG_PAR_2 - Managing Public Finances
+PADM90004_2015_SM1 - Minor Thesis - Public Administration
+PADM90004_2015_SM2 - Minor Thesis - Public Administration
+PADM90005_2015_MAR_PAR_2 - The Nature of Governing
+PADM90006_2015_APR_PAR_2 - The Rule of Law
+PADM90007_2015_FEB_PAR_2 - The World of Public Administration
+PADM90007_2015_JUL_PAR_2 - The World of Public Administration
+PADM90008_2015_OCT_PAR_2 - Using Evidence
+PADM90009_2015_SEP_PAR_2 - Working Ethically
+PADM90010_2015_SM1 - Applied Syndicate Project
+PADM90011_2015_MAY - Governing Challenges 1
+PADM90012_2015_AUG_PAR_2 - Governing Challenges 2
+PHIL10002_2015_SM1 - Philosophy: The Big Questions
+PHIL10003_2015_SM2 - Philosophy: The Great Thinkers
+PHIL10004_2015_SM2 - Ideas and Society
+PHIL20001_2015_SM1 - Science, Reason and Reality
+PHIL20008_2015_SM2 - Ethical Theory
+PHIL20018_2015_SM1 - Matters of Life and Death
+PHIL20030_2015_SM2 - Meaning, Possibility and Paradox
+PHIL20033_2015_SM1 - The Philosophy of Mind
+PHIL20038_2015_SM1 - Nietzsche and Critics
+PHIL20039_2015_SM2 - The Nature of Reality
+PHIL20040_2015_SM1 - Greek Philosophy
+PHIL20041_2015_SM2 - Phenomenology and Existentialism
+PHIL20042_2015_SM2 - Language, Self and Other
+PHIL20043_2015_SM1 - History of Early Modern Philosophy
+PHIL30007_2015_SM2 - The Philosophy of Philosophy
+PHIL30016_2015_SM2 - Knowledge and Reality
+PHIL30024_2015_SM1 - The Foundations of Interpretation
+PHIL30043_2015_SM1 - The Power and Limits of Logic
+PHIL30047_2015_SM2 - Objectivity and Value
+PHIL30051_2015_SM2 - Justice, Freedom and Equality
+PHIL30052_2015_SM1 - Race and Gender: Philosophical Issues
+PHIL40002_2015_SM1 - Recent European Philosophy
+PHIL40003_2015_SM2 - Topics in Moral Psychology
+PHIL40004_2015_SM1 - Value Theory
+PHIL40005_2015_SM2 - Topics in Metaphysics
+PHIL40007_2015_SM1 - Philosophy of Language and Mind
+PHIL40013_2015_SM2 - Uncertainty, Vagueness and Disagreement
+PHIL40014_2015_JUL - Topics in Asian Philosophy
+PHIL40015_2015_SM1 - Philosophy Thesis
+PHIL40015_2015_SM2 - Philosophy Thesis
+PHIL40017_2015_SM2 - Early Modern Philosophy
+PHIL40018_2015_SM2 - Topics in Contemporary Epistemology
+PHIL40019_2015_SM1 - Philosophy Thesis
+PHIL40019_2015_SM2 - Philosophy Thesis
+PHIL40020_2015_SM1 - Reading and Writing Philosophy
+PHIL90004_2015_SM1 - Ethical Theory and Practice
+PHIL90005_2015_SM1 - Applied Ethics: Directed Research
+PHIL90005_2015_SM2 - Applied Ethics: Directed Research
+PHIL90007_2015_SM1 - Literature Review
+PHIL90007_2015_SM2 - Literature Review
+PHIL90010_2015_SM1 - Global Justice
+PHIL90015_2015_SM2 - Issues in Professional & Applied Ethics
+PHIL90016_2015_SM1 - Shorter Applied Ethics Thesis
+PHIL90016_2015_SM2 - Shorter Applied Ethics Thesis
+PHIL90017_2015_SM1 - Longer Applied Ethics Thesis
+PHIL90017_2015_SM2 - Longer Applied Ethics Thesis
+PHIL90018_2015_SM1 - Professional Ethics Thesis
+PHIL90018_2015_SM2 - Professional Ethics Thesis
+PHIL90021_2015_SM1 - Critical and Creative Thinking
+PHIL90022_2015_APR - Thinking and Acting Ethically
+PHIL90024_2015_SM1 - Philosophy Methods
+PHIL90024_2015_SM2 - Philosophy Methods
+PHIL90025_2015_SM1 - Issues in Bioethics
+PHIL90027_2015_SM2 - The Moral Limits of Markets
+PHIL90029_2015_SM2 - Sustainability and Environmental Ethics
+PHIL90030_2015_SM2 - Professional & Applied Ethics Internship
+PHIL90031_2015_SM1 - Applied Ethics Thesis
+PHIL90031_2015_SM2 - Applied Ethics Thesis
+PHIL90032_2015_SM1 - Inequality and Public Policy
+PHIL90033_2015_MAR - Reasoning and Evidence
+POLS10001_2015_SM1 - Australian Politics
+POLS10003_2015_SM2 - Introduction to Political Ideas
+POLS20006_2015_SM1 - Contemporary Political Theory
+POLS20008_2015_SM2 - Public Policy Making
+POLS20011_2015_SM1 - Sexual Politics
+POLS20023_2015_SM1 - Comparative Politics
+POLS20025_2015_SM2 - International Relations: Key Questions
+POLS20026_2015_SM1 - Politics and the Media
+POLS20028_2015_JAN - UNott:Global Citizenship - Global Issues
+POLS20029_2015_SM2 - UQ:Human Rights & International Politics
+POLS20030_2015_SM1 - UQ: Conceptions of World Politics
+POLS20031_2015_SM2 - Political Economy
+POLS20032_2015_SM1 - UQ: Global Security
+POLS30001_2015_SM1 - Parliamentary Internship
+POLS30002_2015_SM1 - Public Affairs Internship (Int.Students)
+POLS30002_2015_SM2 - Public Affairs Internship (Int.Students)
+POLS30003_2015_SM1 - Public Affairs Internship
+POLS30003_2015_SM2 - Public Affairs Internship
+POLS30011_2015_SM1 - Chinese Politics and Society
+POLS30015_2015_SM1 - International Gender Politics
+POLS30018_2015_SM1 - European Integration: Politics of the EU
+POLS30019_2015_SM2 - Australian Foreign Policy
+POLS30022_2015_SM2 - Global Environmental Politics
+POLS30028_2015_FEB - On Country Learning: Indigenous Studies
+POLS30030_2015_SM1 - American Politics
+POLS30031_2015_SM1 - Contemporary India
+POLS30032_2015_SM2 - Campaigns and Elections
+POLS30033_2015_SM1 - Democracy and its Dilemmas
+POLS30034_2015_JAN - Political Psychology
+POLS40001_2015_SM2 - Contemporary Political and Social Theory
+POLS40002_2015_SM1 - Australian Politics:Democracy & Justice
+POLS40004_2015_SM1 - Justice, Democracy and Difference
+POLS40011_2015_SM1 - Political Science Thesis
+POLS40011_2015_SM2 - Political Science Thesis
+POLS40012_2015_SM1 - International Politics Thesis
+POLS40012_2015_SM2 - International Politics Thesis
+POLS40013_2015_FEB - Social Science Research Seminar
+POLS40014_2015_SM2 - A Postcolonial International Relations?
+POLS40015_2015_SM1 - Women in Global Politics
+POLS40016_2015_SM2 - Asia-Pacific: Zone of Conflict or Peace?
+POLS40017_2015_MAR - Social Policy and Development
+POLS40017_2015_NOV - Social Policy and Development
+POLS40019_2015_SM1 - The Fall of Australian Prime Ministers
+POLS40020_2015_SM1 - Politics & International Studies Thesis
+POLS40020_2015_SM2 - Politics & International Studies Thesis
+POLS90007_2015_JUL - US Foreign Policy
+POLS90009_2015_SM1 - International Relations Internship
+POLS90009_2015_SM2 - International Relations Internship
+POLS90009_2015_SUM - International Relations Internship
+POLS90012_2015_SM1 - Trade Policy Politics & Governance
+POLS90013_2015_SM2 - Politics and Business in post-Mao China
+POLS90015_2015_SM1 - Business and Government
+POLS90016_2015_SM2 - The United Nations: Review and Reform
+POLS90017_2015_SM1 - Europe and Asia: Competing Hegemons?
+POLS90022_2015_SM2 - International Security
+POLS90023_2015_SM1 - International Governance and Law
+POLS90026_2015_SM2 - International Political Economy
+POLS90027_2015_SM1 - International Relations Minor Thesis
+POLS90027_2015_SM2 - International Relations Minor Thesis
+POLS90028_2015_SM1 - International Relations Theory
+POLS90030_2015_SM1 - Nuclear Weapons and Disarmament
+POLS90031_2015_MAR - Special Topics: International Relations
+POLS90031_2015_SEP - Special Topics: International Relations
+POLS90031_2015_SM1 - Special Topics: International Relations
+POLS90034_2015_SM1 - International Policymaking in Practice
+POLS90036_2015_JAN - International Project
+POLS90037_2015_AUG - Corruption in Today's World
+POLS90038_2015_SM2 - Human Rights
+POLS90041_2015_SM1 - Global Campaigning: NGOs and Movements
+POLS90042_2015_SM1 - Latin America in the World
+POLS90043_2015_MAR - Comparative Regional Governance
+POLS90044_2015_NOV - ASEAN and Southeast Asian Regionalism
+POLS90045_2015_SM2 - Governing Money and Finance
+PPMN40005_2015_SM1 - Public Policy & Management Thesis
+PPMN40005_2015_SM2 - Public Policy & Management Thesis
+PPMN50001_2015_FEB - U21 Advanced International Study
+PPMN90002_2015_SM1 - Minor Thesis - Public /Social Policy
+PPMN90002_2015_SM2 - Minor Thesis - Public /Social Policy
+PPMN90003_2015_MAR - Social Policy: Special Topics
+PPMN90003_2015_MAY - Social Policy: Special Topics
+PPMN90003_2015_SM1 - Social Policy: Special Topics
+PPMN90006_2015_AUG - Public Management
+PPMN90006_2015_MAR - Public Management
+PPMN90007_2015_JUL - Policy Design and Implementation
+PPMN90007_2015_MAR - Policy Design and Implementation
+PPMN90010_2015_AUG - Professional Practice in Policy
+PPMN90030_2015_SM2 - Public Policy in the Asian Century
+PPMN90031_2015_SM2 - Public Policy Lobbying Strategies
+PPMN90032_2015_SEP - Managing Change and Leading Innovation
+PPMN90035_2015_MAY - Publics, Policy and Public Services
+PPMN90036_2015_DEC - UBham:International Public Management
+PPMN90037_2015_AUG - Governance
+PPMN90037_2015_MAR - Governance
+PPMN90039_2015_SM1 - Executive Internship
+PPMN90039_2015_SM2 - Executive Internship
+PPMN90041_2015_MAR - Commissioning Public Services
+PPMN90042_2015_SM1 - Foundations in Politics and Policy
+PPMN90042_2015_SM2 - Foundations in Politics and Policy
+PPMN90043_2015_SM1 - Project-based Policy Analysis
+PPMN90044_2015_SM2 - Governance and Social Policy
+PPMN90045_2015_SM1 - Government Today 1
+PPMN90046_2015_SM2 - Government Today 2
+PUBL90001_2015_SM1 - Structural Editing
+PUBL90001_2015_SM2 - Structural Editing
+PUBL90002_2015_SM1 - Editorial English
+PUBL90002_2015_SM2 - Editorial English
+PUBL90003_2015_SM1 - The Contemporary Publishing Industry
+PUBL90004_2015_SM1 - Business and Professional Communications
+PUBL90005_2015_SM2 - Technical Writing and Editing
+PUBL90006_2015_SM1 - Writing and Editing for Digital Media
+PUBL90006_2015_SM2 - Writing and Editing for Digital Media
+PUBL90007_2015_SM2 - History of Books and Reading
+PUBL90009_2015_SM1 - Advanced Editing for Digital Media
+PUBL90010_2015_SM1 - Print Production and Design
+PUBL90012_2015_SM1 - Practicum
+PUBL90012_2015_SM2 - Practicum
+PUBL90013_2015_SM1 - Advanced Magazine Editing and Publishing
+PUBL90014_2015_SM1 - Legal Issues in Media and Publishing
+PUBL90015_2015_SM1 - Publishing and Communications 5A
+PUBL90016_2015_SM2 - Publishing and Communications 5B
+PUBL90017_2015_SM1 - Publishing and Communications Thesis
+PUBL90017_2015_SM2 - Publishing and Communications Thesis
+PUBL90019_2015_SM2 - Print Markets: Structures and Strategies
+PUBL90020_2015_SM2 - Advanced Book Publishing
+PUBL90021_2015_SM2 - Editing Masterclass
+RUSS10001_2015_SM1 - Russian 1
+RUSS10002_2015_SM2 - Russian 2
+RUSS20004_2015_SM1 - Russian 3
+RUSS20005_2015_SM2 - Russian 4
+RUSS20006_2015_SM1 - Russian 5
+RUSS20007_2015_SM2 - Russian 6
+RUSS30001_2015_SM1 - Russian 5
+RUSS30002_2015_SM2 - Russian 6
+RUSS40006_2015_SM1 - Russian Language & Culture 4A
+RUSS40007_2015_SM2 - Russian Language & Culture 4B
+RUSS40008_2015_SM1 - Russian Thesis
+RUSS40008_2015_SM2 - Russian Thesis
+SCRN10001_2015_SM1 - Introduction to Cinema Studies
+SCRN20011_2015_SM1 - Hollywood and Entertainment
+SCRN20013_2015_SM2 - Australian Film and Television
+SCRN20014_2015_SM2 - Film Genres and Auteurs
+SCRN30001_2015_SM1 - Art Cinema and the Love Story
+SCRN30004_2015_SM2 - Film Noir: History and Sexuality
+SCRN30005_2015_SM2 - The Digital Screenscape
+SCRN40002_2015_SM1 - Contemporary Film Theory
+SCRN40003_2015_SM2 - Ethnographic and Documentary Cinema
+SCRN40005_2015_SM1 - Melodrama, Class and the Cinema
+SCRN40006_2015_SM2 - Film, Art and Exhibition
+SCRN40009_2015_SM2 - Screen Media and Mediated Experiences
+SCRN40012_2015_SM1 - Cinema Studies Thesis
+SCRN40012_2015_SM2 - Cinema Studies Thesis
+SCRN40013_2015_SM2 - Censorship: Film, Art and Media
+SCRN40014_2015_SM1 - Screen and Cultural Studies Thesis
+SCRN40014_2015_SM2 - Screen and Cultural Studies Thesis
+SCRN40015_2015_SM1 - Screen Studies Thesis
+SCRN40015_2015_SM2 - Screen Studies Thesis
+SCRN40016_2015_SM1 - Screen & Cultural Studies Thesis
+SCRN40016_2015_SM2 - Screen & Cultural Studies Thesis
+SCRN50001_2015_SM1 - Moving Image Thesis
+SCRN50001_2015_SM2 - Moving Image Thesis
+SCRN90002_2015_SM2 - Film Production: From Script to Screen
+SCRN90004_2015_SM1 - Visual Culture Industries
+SCRN90006_2015_JUL - Film Festival Cultures
+SCRN90009_2015_SM2 - Screen Theory
+SOCI10001_2015_SM1 - Understanding Society
+SOCI10002_2015_SM2 - Sociology of Work and Occupations
+SOCI20007_2015_SM1 - Terrorism: Shifting Paradigms
+SOCI20010_2015_JAN - LundU: Globalisation and Social Change
+SOCI20014_2015_SM2 - Sociology of Youth
+SOCI20015_2015_SM1 - Sport in Society
+SOCI30001_2015_SM1 - Contemporary Sociological Theory
+SOCI30005_2015_SM2 - Sociology Internship
+SOCI30009_2015_SM1 - Living in a Risk Society
+SOCI30010_2015_SM1 - Social Differences and Inequalities
+SOCI30012_2015_SM2 - Digital Technology and Social Change
+SOCI40002_2015_SM1 - Sociology Thesis
+SOCI40002_2015_SM2 - Sociology Thesis
+SOCI40003_2015_SM2 - Understanding The Life Course
+SOCI40005_2015_SM1 - Sociology Thesis
+SOCI40005_2015_SM2 - Sociology Thesis
+SOCI90002_2015_MAR - Foundations of Social Policy
+SOCI90003_2015_NOV - Comparative Social Policy
+SOCI90004_2015_APR - Contemporary Social Problems
+SOCI90005_2015_SM2 - Social Research Design and Evaluation
+SOCI90006_2015_MAR - Ageing, Society And Social Policy
+SOCI90009_2015_SM1 - A Century of Australian Social Policy
+SOCI90010_2015_SM2 - International Migration
+SOCI90011_2015_MAR - Foundations of Social Policy
+SOLS10001_2015_SM2 - Law in Society
+SOLS20001_2015_SM2 - Law, Justice and Social Change
+SOLS30001_2015_SM1 - Law in Social Theory
+SOLS40001_2015_SM1 - Socio-Legal Studies Thesis
+SOLS40001_2015_SM2 - Socio-Legal Studies Thesis
+SOLS90002_2015_SM1 - Social Theory Thesis
+SOLS90002_2015_SM2 - Social Theory Thesis
+SOLS90003_2015_SM1 - Socio-Legal Studies Thesis
+SOLS90003_2015_SM2 - Socio-Legal Studies Thesis
+SOTH20002_2015_SM1 - Modernity: Foundations of Sociology
+SOTH20003_2015_SM2 - Social Theory and Political Analysis
+SOTH20006_2015_MAR - LundU: Globalisation and Social Policy
+SOTH30001_2015_JUL - Critical Theories
+SOTH40002_2015_SM2 - Imagined Societies
+SOTH40003_2015_MAR - The Critical Imagination
+SOTH40004_2015_SM1 - Social Theory Thesis
+SOTH40004_2015_SM2 - Social Theory Thesis
+SOTH90004_2015_SM2 - Reading Texts in Social Theory
+SOTH90005_2015_OCT - Social Inclusion, Politics, Recognition
+SOTH90006_2015_MAY - Social Inclusion Policy and Practice
+SPAN10001_2015_SM1 - Spanish 1
+SPAN10002_2015_SM2 - Spanish 2
+SPAN10003_2015_SM1 - Spanish 3
+SPAN10004_2015_SM2 - Spanish 4
+SPAN10007_2015_SM1 - Spanish 5
+SPAN10008_2015_SM2 - Spanish 6
+SPAN20001_2015_SM2 - Hispanic Film: Civil Unrest on Screen
+SPAN20002_2015_SM1 - Spanish 3
+SPAN20003_2015_SM2 - Spanish 4
+SPAN20016_2015_SM1 - Rock, Pop & Resistance
+SPAN20017_2015_SM1 - Don Quijote Against the Universe
+SPAN20018_2015_SM1 - Spanish 5
+SPAN20019_2015_SM2 - Spanish 6
+SPAN20022_2015_SM1 - Spanish 7
+SPAN20025_2015_NOV - Realities and Fictions in Argentina
+SPAN30001_2015_SM2 - Gender in Hispanic Cultures
+SPAN30012_2015_SM1 - Rock, Pop & Resistance
+SPAN30013_2015_SM1 - Don Quijote Against the Universe
+SPAN30014_2015_SM1 - Spanish 5
+SPAN30015_2015_SM2 - Spanish 6
+SPAN30016_2015_SM1 - Spanish 7
+SPAN30020_2015_NOV - Realities and Fictions in Argentina
+SPAN40002_2015_SM1 - Spanish Honours Language Seminar 1
+SPAN40003_2015_SM2 - Spanish Honours Language Seminar 2
+SPAN40006_2015_SM1 - Spanish & Latin American Studies Thesis
+SPAN40006_2015_SM2 - Spanish & Latin American Studies Thesis
+SPAN90002_2015_SM1 - Spanish in a Global World
+SPAN90002_2015_SM2 - Spanish in a Global World
+SPAN90003_2015_SM1 - Graduate Spanish A
+SPAN90004_2015_SM2 - Graduate Spanish B
+THTR20021_2015_SM2 - Shakespeare in Performance
+TRAN90001_2015_SM1 - Foundations of Translation
+TRAN90001_2015_SM2 - Foundations of Translation
+TRAN90002_2015_SM1 - Minor Thesis - Translation Studies
+TRAN90002_2015_SM2 - Minor Thesis - Translation Studies
+TRAN90003_2015_SM1 - Specialised Translation
+TRAN90003_2015_SM2 - Specialised Translation
+TRAN90004_2015_SM1 - Translating Chinese Economic Documents
+TRAN90005_2015_SM2 - Translating Chinese Legal Documents
+TRAN90006_2015_SM1 - Translating From English 1
+TRAN90006_2015_SM2 - Translating From English 1
+TRAN90007_2015_SM1 - Translating From English 2
+TRAN90007_2015_SM2 - Translating From English 2
+TRAN90008_2015_SM1 - Translating Into English 1
+TRAN90008_2015_SM2 - Translating Into English 1
+TRAN90009_2015_SM1 - Translating Into English 2
+TRAN90009_2015_SM2 - Translating Into English 2
+TRAN90010_2015_SM1 - Translation Internship
+TRAN90010_2015_SM2 - Translation Internship
+TRAN90011_2015_SM2 - Translation Studies Workshop
+UNIB10002_2015_SM1 - Logic: Language and Information
+UNIB10003_2015_SM1 - An Ecological History of Humanity
+UNIB10005_2015_SM2 - Internet Meets Society
+UNIB10013_2015_SM2 - Catastrophes as Turning Points
+UNIB20004_2015_SM2 - Cultural Forensics: Intent to Deceive
+UNIB20013_2015_SM2 - Body, Mind and Medicine: A Dissection
+UNIB20016_2015_SM1 - Same-Sex Desire: From God to Genes
+UNIB20018_2015_SM1 - Going Places - Travelling Smarter
+UNIB20018_2015_SM2 - Going Places - Travelling Smarter
+UNIB30007_2015_SM2 - Sex, Race, Species and Social Justice
+VISM40002_2015_SM1 - Directed Reading
+VISM40002_2015_SM2 - Directed Reading
+VISM40003_2015_SM1 - Critical Studies Culture & Creative Arts
+VISM40008_2015_SM1 - IT and Creative Practice
+VISM40009_2015_SM2 - Visual Media: Experimental Projects
+VISM40010_2015_SM1 - Digital Imaging for Multimedia
+VISM40011_2015_SM2 - Interactive Multimedia Authoring 1
+VISM40012_2015_SM1 - Research Project
+VISM40012_2015_SM2 - Research Project
+VISM40013_2015_SM1 - Research Methodology
+VISM90001_2015_SM2 - Text, Time and Space
